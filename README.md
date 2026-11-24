@@ -26,5 +26,8 @@ https://journal.umy.ac.id/index.php/jrc (the template belongs to JRC and is not 
 python3 skills/jrc-writing/scripts/build_jrc_docx.py content.json out.docx --template JRC_Template.docx
 ```
 
+## License
+MIT — see [LICENSE](LICENSE). Journal templates are not included and remain the property of their journals.
+
 ## Author
 Eko Rudiawan Jamzuri — Politeknik Negeri Batam
